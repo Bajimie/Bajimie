@@ -73,6 +73,9 @@ A comparative machine learning study exploring automated plant species identific
 
 **GitHub:** [github.com/Bajimie](https://github.com/Bajimie)
 
+**LinkedIn:** [www.linkedin.com/in/emmanuel-bajimi](www.linkedin.com/in/emmanuel-bajimi)
+
+
 ---
 
 *Explore my repositories to see the projects I'm building and the problems I'm working to solve.*
