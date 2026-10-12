@@ -31,6 +31,14 @@ A computer vision application that monitors facial landmarks, eye closure, and h
 
 [View Project](https://github.com/Bajimie/driver-drowsiness-detection)
 
+### 🌦️ Temperature Prediction Using Time Series Analysis and Multiple Linear Regression
+
+A statistical modelling project exploring weather patterns through time series decomposition, autocorrelation analysis, stationarity testing, and multiple linear regression. Includes model evaluation and diagnostic testing.
+
+**Tech:** Python, pandas, statsmodels, scikit-learn, Jupyter Notebook
+
+[View Project](https://github.com/Bajimie/temperature-time-series-regression)
+
 ## 🛠️ Technical Skills
 
 **Programming:** Python, SQL, R, Java
