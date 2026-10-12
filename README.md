@@ -39,6 +39,14 @@ A statistical modelling project exploring weather patterns through time series d
 
 [View Project](https://github.com/Bajimie/temperature-time-series-regression)
 
+### 🌿 Plant Species Classification Using Machine Learning
+
+A comparative machine learning study exploring automated plant species identification using morphological and texture-based leaf features. Evaluated Random Forest, SVM, kNN, Decision Tree and Naïve Bayes using Python and WEKA.
+
+**Tech:** Python, scikit-learn, pandas, WEKA, Jupyter Notebook
+
+[View Project](https://github.com/Bajimie/plant-species-classification)
+
 ## 🛠️ Technical Skills
 
 **Programming:** Python, SQL, R, Java
